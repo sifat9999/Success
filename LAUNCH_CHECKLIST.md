@@ -1,0 +1,13 @@
+# Launch checklist
+- [ ] Install Node.js 20.9+
+- [ ] Run `npm install` and `npm run dev`
+- [ ] Inspect all routes on desktop and mobile
+- [ ] Replace sample contact email
+- [ ] Replace concept portfolio or keep its disclaimer
+- [ ] Upload extracted files to GitHub repository root
+- [ ] Import repository into Vercel
+- [ ] Add Supabase variables only in Vercel settings
+- [ ] Run Supabase SQL schema and test lead submission
+- [ ] Add rate limiting and bot protection
+- [ ] Implement and security-test client/admin authentication before sharing private routes
+- [ ] Connect custom domain and run `npm run build`
